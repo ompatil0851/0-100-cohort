@@ -1,0 +1,20 @@
+ ------ learning about the node js runtime env and building an http server using express(lib) -----
+                     http (hypertext transfer protocol)
+       What is ECMAScript  ?
+       What is node.js ? (used at backend)
+       What is jave scrip ?
+       What is Bun  ?
+
+       What is an http server ? (http help in communication of frontend with backend)
+       What is protocol ? (websocker , http , webrtc ,https)
+       What is a frontend ? (html,css,js(react))
+       What is a backend ?  (golang, rust ,java)
+
+       What is server ? ( its stores the user data and also perform the operation or calculation)
+       What is status code ? ( error 404, 200 ,403 ,500)
+       What is a method ? (GET, POST)
+
+
+       
+       (Internet is just a bunch of machines talking to each other)
+    
