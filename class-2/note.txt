@@ -13,6 +13,10 @@
        What is server ? ( its stores the user data and also perform the operation or calculation)
        What is status code ? ( error 404, 200 ,403 ,500)
        What is a method ? (GET, POST)
+       What is postman ?
+
+       command for restarting the server after a change(npx nodemon js_file_name)
+       
 
 
        
