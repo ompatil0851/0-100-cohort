@@ -1,0 +1,34 @@
+---------------Express and http with real world examples--------------
+-------------------------------Postman--------------------------------
+
+we send a parameter using the http command FOR examples(localhost:3000/?n=100) for multiple parameter ( localhost:3000/?n=2&m=5)
+
+we are building a hospital using the routes like get, put, post, delete
+
+-------------Request method--------------------
+GET = Going for a consultation to get check up.
+POST = Going to get a new kidney get inserted.
+PUT = Going to get a kidney replaced.
+DELETE = Going to get a kidney removed.
+
+---------------------Status Codes-----------------------
+200= Everything went fine
+404= Doctor is not in the hospital
+500=  mid surgery light went away
+411= inputs were incorrect, wrong person came to surgery
+403= you are not allowed in the surgery hospital.
+
+
+
+What is the meaning of in memory hospital ?
+Ans => We store the data in the variables.In real world we don't use in memory data storage.
+
+
+
+
+
+
+
+
+
+
