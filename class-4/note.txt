@@ -1,0 +1,39 @@
+-------------------Week 3-----------------
+  -----Middleware and Global Catches-----
+
+  Middleware are use to check the pre-checks.(check the file midlwre.js)
+  (app.use(express.json())) To catch the body from the client.
+
+
+  Global catches => when something is wrong with the server we should not expose the backend to the user we just send a cleaner text (
+    by use of the global catches which take 4 arguments.
+  )
+example => app.use(function(err,req,res,next){
+  res.json({
+    msg: "something is wrong with the server"
+  })
+})
+
+
+what is zod and how can we use it for input validation?
+ans => zod does the work to check the input.
+
+
+---------------------Authentication--------------------
+dumb way- ask the user for username and password in all request in headers.(not the best way to do it )
+
+Slightly better way-
+1. Give the user back token on sign in/up.
+2. Ask the user to send back the token in all future requests.
+3. When the user log out, ask the user to forgot the token(or revoke it from the backend)
+
+
+
+
+
+
+
+
+  
+
+
