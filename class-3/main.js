@@ -21,4 +21,6 @@ app.get("/",function(req,res){
 }
 )
 
-app.listen(port)
+app.listen(port,()=>{
+    console.log(`Server is live on port ${port}`)
+})

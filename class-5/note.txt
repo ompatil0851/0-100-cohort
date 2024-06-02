@@ -1,0 +1,36 @@
+  ------------------------------------3.1 --------------------------------
+-----------------------Fetch, Authentication and Databases---------------------
+
+how can we login through with website and not using postman for sending the email and password.
+
++++++++++++++++++Fetch API++++++++++++++++++
+
+we are creating a static website to hit a API.
+
+---------------Authentication---------------
+
+before we learn about Authentication
+lets understand some cryptography jargons
+1. hashing ( converting a password into some gibberish )(it is one way)
+2. encryption (converting a string into some gibberish)(it is two way but you need a key to decrypt)
+3. json web tokens  (jwt.io)
+4. Local storage
+
+
+Created a Authentication using jwt and created a token which is saved at local storage.
+(auth.js)
+
+-----------------Databases------------------
+
+1. user hits the backend 
+2. backend hits the Databases
+3. user does not have access to the Databases.
+
+CRUD => (create,read, update, delete)
+
+
+
+
+
+
+

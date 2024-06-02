@@ -1,1 +1,3 @@
 hello guys !! from txt file 
+
+json(javascript object notation)

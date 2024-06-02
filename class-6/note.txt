@@ -1,0 +1,13 @@
+--------------DOM(Document object model)----------------------
+
+we are going to learn about how we can change the contents of the web page dynamically.
+which can be done through DOM manipulation.
+
+we will use DOM API
+we will use global document variable
+
+________Debouncing and throtlling___________
+
+
+
+
