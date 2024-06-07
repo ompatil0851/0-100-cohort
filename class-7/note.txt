@@ -1,0 +1,9 @@
+------React-------
+Why do we need reat (Dom manipulation)
+we have static and dynamic website for example linkedin is heavily dynamic website.
+(before react it is very hard to do dom manipulation)
+
+DOM manipulation is very hard as programmer and therefore react came into the picture.
+
+we will create a todo list 
+
