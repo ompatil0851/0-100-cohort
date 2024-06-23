@@ -6,8 +6,10 @@ const mongoose = require("mongoose");
 
 mongoose.connect("mongodb+srv://admin:123456Om@cluster0.zvu9olr.mongodb.net/userappnew")// connecting to the database
 
-const User = mongoose.model('users', { name: String, email: String,
-    password: String
+const User = mongoose.model('users', { 
+    name: String, 
+    email: String,
+    password: String,
  });
 
 
